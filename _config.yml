@@ -17,13 +17,13 @@ texture:
   title: Renan Oliveira
   tagline: Software Developer
   date_format: "%b %-d, %Y"
-  style: blue
+  style: black
   showNav: true
   showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: nnoliveira
+    twitter: rnnoliveira
     github:  renanregis
     linkedIn: in/renanceoliveira
     rss: rss
