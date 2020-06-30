@@ -1,8 +1,8 @@
-title: Renan Oliveira
+title: Renan Oliveira - Blog
 author: Renan Oliveira
 email: renanctr@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  My awesome blog.
+  Things that I'm learning during my journey as a software developer.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -13,7 +13,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Renan Oliveira
-  tagline: Software Developer
+  tagline: Full Stack Developer
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
